@@ -36,6 +36,7 @@ Here is what the house ships now.
 
 | Repo | What it does |
 | --- | --- |
+| [slop-guard](https://github.com/blisse-code/slop-guard) | Rules for the habits that make AI-made pages, apps, decks and writing look generic, split by kind of work, with a small checker that finds the ones a script can see. |
 | [harness-atelier](https://github.com/blisse-code/harness-atelier) | Builds the working setup around the AI for a designer or design team: instructions, workflow skills, a reviewer agent, checks and a status dashboard. |
 | [leadership-career-skills](https://github.com/blisse-code/leadership-career-skills) | Six skills for design leaders looking for work: resumes, case studies, stories, cover letters and portfolios. None of them invents a metric. |
 | [bespoke](https://github.com/blisse-code/bespoke) | Shapes AI drafts into one person's real voice, using stylometry and Orwell's plain style. |
