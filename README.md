@@ -24,7 +24,7 @@ Chiranjeet Banerjee runs it from Kuala Lumpur.
 
 ### How I work
 
-I have no engineering background. So I direct AI agents the way I would run a design team: a brief, a sprint, a hard review. The agent builds and measures. I choose, every round.
+I build the way I run a design team. AI agents get a brief, a sprint and a hard review. They build and measure. I choose, every round.
 
 One rule holds across all of it. No invented numbers. A missing figure stays a visible gap, not a guess.
 
